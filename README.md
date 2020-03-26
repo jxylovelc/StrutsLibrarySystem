@@ -1,6 +1,7 @@
 # StrutsLibrarySystem
 一个基于SSH(Struts+Spring+Hibernate）的图书馆管理系统，数据库是Mysql的，代码可正常运行
 可以参考，别抄袭。
+
 /*
 Navicat MySQL Data Transfer
 
